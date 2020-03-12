@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6cdc4e40a0fa410ca4f37de7531c7bb, type: 3}
+  m_Name: 01.2
+  m_EditorClassIdentifier: 
+  storyText: 'Well, good, you gave yourself some time to look around. You see a table
+    with lots of clutter under it. Also a door with the crack under it - too small
+    but maybe you could fit into it. Behind their ugly back you see a window. It is
+    opened just a little for fresh air - one strong jump and maybe you will consider
+    yourself as a free being.
+
+
+    1. Sneak under the table.
+
+    2. Run to the door.
+
+    3. Run to the window.'
+  nextStates: []

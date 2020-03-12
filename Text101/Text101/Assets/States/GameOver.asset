@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6cdc4e40a0fa410ca4f37de7531c7bb, type: 3}
+  m_Name: GameOver
+  m_EditorClassIdentifier: 
+  storyText: 'This game is over, what more is there to say?
+
+    Want to try again?
+
+
+    1. Yeah, gimme another one piece of this shit!
+
+    2. Nah, screw it. I''m going to jerk off and have a nap.'
+  nextStates:
+  - {fileID: 11400000, guid: b1bfc8a6ec4b84d588c06dab3eb031a9, type: 2}
+  - {fileID: 11400000, guid: 9a311c9fbfd3049f3b1bd1c3ebc87408, type: 2}

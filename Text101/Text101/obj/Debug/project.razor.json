@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/Berezhok/Documents/Unity2D/Text101/Text101/Assembly-CSharp.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

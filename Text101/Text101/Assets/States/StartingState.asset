@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6cdc4e40a0fa410ca4f37de7531c7bb, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Here it goes again. You have choices but no options. You are somewhere.
+    Somewhere in the corner of your eye. \nThere is nothing more, only you in void
+    darkness. \n\nSo, what would you do?\n1. Go deeper into the dark corner.\n2. Go
+    at the middle of the sight."
+  nextStates:
+  - {fileID: 11400000, guid: 0c7a2c746e3df41598a72f6bfd025f3a, type: 2}
+  - {fileID: 11400000, guid: 8ad637135c4654faeb865a070ba0d3e9, type: 2}

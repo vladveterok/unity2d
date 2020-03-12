@@ -1,0 +1,8 @@
+// DONE. problem: player kill theyselve while shooting :)
+
+// DONE. How to adjust volume for each audio clip? 
+
+// DONE. Make enemies bamping to player and dealing damage -- CHANGE LAYERS SO EVERY SUBJECT BAMPS INTO RIGHT OBJECT
+// DONE. Add music.     !ALERT: remember that you use the same AudioSource for sounds and for music which could lead to some future issues
+
+// Make different sounds for different enemies shooting

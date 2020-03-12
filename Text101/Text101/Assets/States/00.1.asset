@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6cdc4e40a0fa410ca4f37de7531c7bb, type: 3}
+  m_Name: 00.1
+  m_EditorClassIdentifier: 
+  storyText: 'So you are in the darkest darkness of the corner of the eye. Someone,
+    who merely see you, feels pretty nervous, because no one loves when someone is
+    sneaking around their blindspots. So you have attracted someone''s interest. They
+    are turning their head. Quickly! It''s your turn!
+
+
+    1. Give this asshole a good slap!
+
+    2. Step away, find some place to hide.'
+  nextStates:
+  - {fileID: 11400000, guid: 285398f5ecd25435e952d27dabfd6aab, type: 2}
+  - {fileID: 11400000, guid: 977bc27ac06fc4fb2a04fab45c0a40bb, type: 2}

@@ -1,0 +1,3 @@
+// Resolve the issue at LevelLoader: why should you add 2 to the current scene to load next scene?
+// Fix camera size on splash and start scenes 
+// Adjust colliders on projectile and on enemy
